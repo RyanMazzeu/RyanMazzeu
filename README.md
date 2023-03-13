@@ -7,7 +7,6 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanMazzeu)](https://github.com/RyanMazzeu/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanMazzeu&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanMazzeu&show_icons=true&theme=dracula)
 
